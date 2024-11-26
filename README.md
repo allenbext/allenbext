@@ -2,7 +2,7 @@
 
 ### My name is Alena Bobneva
 
-You can reach me here [![Telegram](/Personal/Images/Telegram.jpg])(https://t.me/AlenaBobneva)
+You can reach me here [![Telegram](https://disk.yandex.ru/i/WX4Rp1UEn_Esfg)](https://t.me/AlenaBobneva)
 
 
 **Here is a description of my repositories** 
