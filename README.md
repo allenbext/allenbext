@@ -16,7 +16,7 @@ Deputy Director for Design / Project Manager with 18-year career in the field of
 
 | #  | Projects | Description | 
 | -- | ----------------------------- | ------------- | 
-| 1  | [**Yandex Practicum Portfolio**](https://github.com/allenbext/Portfolio) | Projects completed as part of the Professional Training Course ***'Data Scientist'*** |  
+| 1  | [**Yandex Practicum Portfolio**](https://github.com/allenbext/Portfolio) | Projects completed as part of the Professional Training Course ***Data Scientist*** |  
 
 <!---
 allenbext/allenbext is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
