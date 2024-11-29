@@ -8,7 +8,7 @@
 - Enrich my knowledge and expertize in the field every day. 
 - Believe that Data Science will change this World and will give me the opportunity to significantly change people's lives towards comfort and safety.
 
-Deputy Director for Design / Project Manager with 18-year career in the field of road and transport infrastructure design. 12 years of leadership experience, participation in the development of more than 40 projects, including the successful management of over 29 projects, delivering innovative and sustainable solutions for complex transport infrastructure facilities.
+Deputy Director for Design / Project Manager / Chief Project Engineer with 18-year career in the field of road and transport infrastructure design. 12 years of leadership experience, participation in the development of more than 40 projects, including the successful management of over 29 projects, delivering innovative and sustainable solutions for complex transport infrastructure facilities.
 
 
 
